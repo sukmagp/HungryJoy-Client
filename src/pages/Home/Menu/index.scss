@@ -1,0 +1,26 @@
+$bg-color: rgb(204, 21, 21);
+$dark-bg: #1E0D0D;
+
+.tittle span{
+  padding: 100px;
+  // background: white;
+  // opacity: 100%;
+}
+
+.tittle{
+  text-align: center;
+  margin-top: 32px;
+  
+  .teks {
+    color: $dark-bg;
+    font-size: 16px;
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+}
+
+
+.img{
+  height: 168px;
+}
+
